@@ -67,3 +67,30 @@ h1 {
   margin-bottom: 40px;
 }
 /* last part */
+
+.container-3 {
+  padding-top: 100px;
+  padding-left: 455px;
+  padding-right: 483px;
+  padding-bottom: 50px;
+}
+.logo img {
+  width: 483.87px;
+  height: 110px;
+}
+.icon-info {
+  display: flex;
+  padding-left: 180px;
+  padding-right: 650px;
+}
+
+.icon {
+  display: inline;
+  padding-right: 10px;
+  padding-bottom: 15px;
+}
+.footer p {
+  display: inline;
+  padding-left: 130px;
+  margin-bottom: 15px;
+}
